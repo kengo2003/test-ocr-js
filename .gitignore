@@ -1,0 +1,4 @@
+/node_modules/
+.env
+ocr-test-445615-9eceb743731d.json
+*.txt
